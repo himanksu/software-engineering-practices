@@ -1,0 +1,8 @@
+https://algorithmia.com/blog/how-to-version-control-your-production-machine-learning-models
+
+https://nvie.com/posts/a-successful-git-branching-model/
+
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts
+
+https://classroom.udacity.com/courses/ud777
+
