@@ -9,3 +9,7 @@ https://realpython.com/instance-class-and-static-methods-demystified/
 https://www.geeksforgeeks.org/args-kwargs-python/
 
 https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+
+https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
+
+https://github.com/MarcDiethelm/contributing/blob/master/README.md
